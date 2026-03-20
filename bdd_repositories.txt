@@ -1,0 +1,55 @@
+# BDD/Gherkin Repositories for Feature Evolution Analysis
+# 
+# This file contains popular repositories for analyzing feature file evolution.
+# Use with: python3 batch_analysis.py --repos-file bdd_repositories.txt
+#
+# Format:
+#   - Lines starting with # are comments
+#   - Owner/repo or full GitHub URLs are supported
+#   - One repository per line
+
+# === CUCUMBER ECOSYSTEM ===
+cucumber/cucumber-ruby        # Ruby implementation - most mature
+cucumber/cucumber-jvm         # Java implementation
+cucumber/cucumber-js          # JavaScript/Node.js
+cucumber/cucumber-rails       # Rails plugin
+cucumber/gherkin-python       # Python Gherkin parser
+
+# === BEHAVE (Python) ===
+behave/behave                 # Main Python BDD framework
+
+# === GHERKIN LANGUAGE ===
+gherkin/gherkin              # Official Gherkin parser
+
+# === ALTERNATIVE BDD FRAMEWORKS ===
+# Uncomment to include in analysis
+
+# Lettuce (Python)
+# gabrielfalcomer/lettuce
+
+# JBehave (Java)
+# jbehave/jbehave-core
+
+# Concordion (Java)
+# concordion/concordion
+
+# Gauge (Multi-language)
+# getgauge/gauge
+
+# === LARGE REPOSITORIES (for comparison) ===
+# Uncomment these for additional comparison data
+
+# Mozilla Firefox
+# mozilla/firefox-source-tree
+
+# Google Chrome/Chromium
+# chromium/chromium
+
+# Linux Kernel
+# torvalds/linux
+
+# === ADD YOUR OWN ===
+# Add your organization's repositories below:
+
+# mycompany/myproject
+# mycompany/another-project
