@@ -31,9 +31,6 @@ ENV/
 *.swp
 *.swo
 
-# Output directories
-evolution_analysis*/
-
 # Log files
 *.log
 analysis.log

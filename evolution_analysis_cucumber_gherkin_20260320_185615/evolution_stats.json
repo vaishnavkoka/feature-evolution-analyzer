@@ -1,0 +1,15 @@
+{
+  "repository": "cucumber/gherkin",
+  "total_commits": 3545,
+  "date_range": {
+    "start": "2017-01-08T19:45:52",
+    "end": "2026-03-20T07:30:11"
+  },
+  "feature_files_created": 607,
+  "feature_files_at_latest": 105,
+  "total_lines_at_latest": 4908,
+  "average_lines_per_commit": 12640.903526093089,
+  "max_lines_in_commit": 29826,
+  "min_lines_in_commit": 426,
+  "growth_rate": 1.2643159379407616
+}

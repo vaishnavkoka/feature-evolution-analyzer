@@ -1,0 +1,15 @@
+{
+  "repository": "cucumber/cucumber-ruby",
+  "total_commits": 8310,
+  "date_range": {
+    "start": "2008-04-09T03:10:41",
+    "end": "2026-03-18T05:23:25"
+  },
+  "feature_files_created": 710,
+  "feature_files_at_latest": 154,
+  "total_lines_at_latest": 423,
+  "average_lines_per_commit": 575.02587244284,
+  "max_lines_in_commit": 3164,
+  "min_lines_in_commit": 0,
+  "growth_rate": 0.050902527075812276
+}
