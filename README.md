@@ -49,6 +49,8 @@ python3 batch_analysis.py --repos behave/behave cucumber/gherkin
 | Date Range | 2017-01-08 to 2026-03-20 |
 | Avg Growth | 1.26 lines/commit |
 
+![cucumber/gherkin Evolution](evolution_analysis_cucumber_gherkin_20260320_185615/evolution_visualization.png)
+
 ### cucumber/cucumber-ruby (8,310 commits)
 | Metric | Value |
 |--------|-------|
@@ -58,6 +60,8 @@ python3 batch_analysis.py --repos behave/behave cucumber/gherkin
 | Total Growth | +423 lines |
 | Date Range | 2008-04-09 to 2026-03-18 |
 | Avg Growth | 0.05 lines/commit |
+
+![cucumber/cucumber-ruby Evolution](evolution_analysis_cucumber_cucumber-ruby_20260320_184257/evolution_visualization.png)
 
 ## Project Structure
 
